@@ -1,5 +1,6 @@
 ## Hi there 👋
 I'm Yitao Wei, an year-3 student at Southeast University, China
+I’m currently learning deep learning and vibe coding.
 
 <!--
 **yitao-wei/yitao-wei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
